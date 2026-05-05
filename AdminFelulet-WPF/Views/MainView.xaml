@@ -99,10 +99,6 @@
                                FontSize="22"
                                FontWeight="Bold"
                                Foreground="{StaticResource ShellInkBrush}" />
-                    <TextBlock Text="  |  gyors admin felület"
-                               Margin="6,2,0,0"
-                               FontSize="13"
-                               Foreground="{StaticResource ShellMutedBrush}" />
                 </StackPanel>
 
                 <Border Grid.Column="1"
